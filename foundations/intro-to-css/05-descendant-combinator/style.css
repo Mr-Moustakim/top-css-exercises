@@ -1,0 +1,17 @@
+/* Solution using class descendant combinator */
+.container .text{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    font-size: 20px;   
+}
+
+/*
+solution if you want to use type descendant combinator
+div p{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    font-size: 20px;   
+}
+*/
